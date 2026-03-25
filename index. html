@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arun Kumar | Mechanical Engineer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Arun Kumar</h1>
+    <p>Mechanical Engineering Student</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>I am a passionate Mechanical Engineering student interested in design, manufacturing, and automation. I aim to build a strong career in core engineering and government sectors.</p>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>AutoCAD</li>
+        <li>SolidWorks</li>
+        <li>Basic Electrical Engineering</li>
+        <li>Thermodynamics</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <ul>
+        <li>Lathe Machine Study and Analysis</li>
+        <li>Hydraulic System Model</li>
+        <li>Mini Solar Vehicle</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <p>B.E Mechanical Engineering (Pursuing)</p>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p><strong>Phone:</strong> 9342257368</p>
+    <p><strong>Email:</strong> arunkumar23022007@gmail.com</p>
+    <p><strong>GitHub:</strong> https://github.com/yourusername</p>
+</section>
+
+<footer>
+    <p>© 2026 Arun Kumar</p>
+</footer
